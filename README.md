@@ -1,4 +1,10 @@
 # poc-videnie-skuska
+
+3. cvik
+- možeš upraviť algoritmus iterativneho hladania optimalneho prahu - nahradiť počiatočny prah jeho vypočtom (priemer priemerov jasov pixelov pozadia a objektov, s tym, že o rohovych pixeloch predpokladame, že patria pozadiu).
+- using "Sonet to lena" nastaviť pre ho adaptivne prahovanie. Doplniť do porovnania absolutnu hodnotu aby ste sa vyhli porovnavaniu so zapornym čislom a experementovať s optimalnou hodnotou rozdielu.
+- farebnu segmentaciu upravit tak, že budete hladať vašu farbu zaujmu v kruhu o nastavenom polomere okolo a,b suradnic farby vami vybraneho pixelu. 
+
 ### 1.	Popíšte proces získavania digitálneho obrazu: model dierkovej kamery, transformácie z 3D do 2D, čo je obrazová funkcia, aký je rozdiel medzi spojitou a diskrétnou (digitálnou) obrazovou funkciou, vzorkovanie, kvantizácia, aliasing a súvis so Shanonovou teorémou, získanie farebného obrazu a demozaikovanie, prevod farebného obrazu na šedotónový.
 
 **Процесс получения цифрового изображения**
