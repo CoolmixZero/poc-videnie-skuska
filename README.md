@@ -1,4 +1,4 @@
-![image](https://github.com/CoolmixZero/poc-videnie-skuska/assets/107999456/3fcb23d1-ee06-4ba3-bcaa-f754c75cd8c2)# poc-videnie-skuska
+# Ответы на вопросы к экзамену по Computer Vision
 
 3. cvik
 - možeš upraviť algoritmus iterativneho hladania optimalneho prahu - nahradiť počiatočny prah jeho vypočtom (priemer priemerov jasov pixelov pozadia a objektov, s tym, že o rohovych pixeloch predpokladame, že patria pozadiu).
